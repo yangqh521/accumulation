@@ -39,6 +39,7 @@
 
 ## git版本回滚
 * git log	查看历史记录
-* git reset  --hard HEAD^ 或者 git reset --hard HEAD~ 回退到上一个版本(如果想回退到100个版本，使用git reset –hard HEAD~100 )
+* git reset  --hard HEAD^ 或者 git reset --hard HEAD~ 回退到上一个版本(如果想回退到100个版本，使用git reset –hard HEAD~100 ) 
+* git reset --hard 目标版本号 回退到指定版本号
 * git push -f origin master 强制提交远程代码 
-
+* git revert -n 目标版本号 本地反做，解决冲突
