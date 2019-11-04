@@ -43,3 +43,13 @@
 * git reset --hard 目标版本号 回退到指定版本号
 * git push -f origin master 强制提交远程代码 
 * git revert -n 目标版本号 本地反做，解决冲突
+
+## git初始推项目
+1. 在gitlab上创建好对应的project
+2. git init 初始化本地项目
+3. git remote add origin git@xxx.xxx.xxx:xxx/xxx.git 关联远程仓库
+4. git add . 添加文件到本地
+5. git commit -m "init project" 本地提交
+6. git push -u origin master -f 推送，-f强推
+
+
