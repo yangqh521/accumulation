@@ -27,7 +27,7 @@
 |Command+Option+N||一致性||
 |Command+Option+M||将选中的代码提取为方法||
 ||**Ctrl+Shift+Backspace**|可以跳转到上次编辑的地方||
-||**Ctrl+Alt+Left/Right**|前后导航编辑过的地方||
+||**Ctrl+Alt+左右键**|前后导航编辑过的地方||
 |**Command+Option+V**|**Ctrl+Alt+V**|提取变量||
 |Command+Option+F||提取字段||
 |Command+ Option+C||提取常量||
