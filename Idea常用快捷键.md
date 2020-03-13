@@ -17,7 +17,7 @@
 |Tab/Shift+Tab||缩进代码 / 反缩进代码||
 |Command+D|Ctrl+D|复制当前行或选定的块||
 ||**Shift+Enter**|另起一行||
-|**Command+Y**|**Ctrl+Y**|删除当前行||
+|**Command+X**|**Ctrl+Y**|删除当前行||
 |Command+F||文件内查找||
 ||**Ctrl+Shift+上下键**|上下移动代码||
 ||**Shift+Shift**|在项目的所有目录查找文件||
